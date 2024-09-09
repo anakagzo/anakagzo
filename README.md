@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anakagzo
 - 👀 I’m interested in app/ web development 
-- 🌱 I’m currently learning python
+- 🌱 I’m skilled in Python, Django, JavaScript, React, Html, Css
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me (my account) / ugooaghanya98@gmail.com 
 
