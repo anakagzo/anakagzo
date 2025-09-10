@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anakagzo
-- 👀 I’m interested in data/ app/ web development 
-- 🌱 I’m skilled in Python, Django, JavaScript, React, Html, Css
+- 👀 I’m interested in data/ app/ web development,AI development.
+- 🌱 I’m skilled in Python, Django, LangChain, JavaScript, React, Html, Css
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me (my account) / ugooaghanya98@gmail.com 
 
